@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAhBmdYhzdy0WObQ/BsDW8MQAAAAACAAAAAAAQZgAAAAEAACAAAAB6i9p0ctlkR7r4RQhEn5d+0kFPsxJQAoGTzsdMt/TsPgAAAAAOgAAAAAIAACAAAABNsnGmzfZvcWDtAOLBItqjSKXjzx+g18Ti8wH0dH2wgzAAAACqkQFaFS0SyRPxms0draZ9nyPxrOekyX0mM/LVenCoumBFy9lZJowiFRuaCD/EABlAAAAAJfvHfVUDJqkIivz8yfASIIwepyEdrs2YRZthI/j0djWufl6pI1qm0EKrqiLMj93gTvnbEA+T4Wbwr0z/uWKXHQ==</EncryptedPassword>
+    <_PublishTargetUrl>ftp://192.52.242.121/www.HotelesReserva.somee.com</_PublishTargetUrl>
+    <History>True|2023-08-09T02:07:20.0709580Z;True|2023-08-07T22:28:57.1242559-05:00;False|2023-08-07T22:20:58.1424932-05:00;False|2023-08-07T22:20:24.0850007-05:00;True|2023-08-07T22:14:55.0135756-05:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>08/02/2023 20:12:34</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>08/08/2023 20:04:56</publishTime>
+    </File>
+    <File Include="AWSSDK.Core.dll">
+      <publishTime>11/09/2022 11:47:34</publishTime>
+    </File>
+    <File Include="AWSSDK.SecurityToken.dll">
+      <publishTime>11/09/2022 11:47:36</publishTime>
+    </File>
+    <File Include="DnsClient.dll">
+      <publishTime>06/10/2022 15:37:24</publishTime>
+    </File>
+    <File Include="HotelReservas.API.deps.json">
+      <publishTime>08/08/2023 20:57:33</publishTime>
+    </File>
+    <File Include="HotelReservas.API.dll">
+      <publishTime>08/08/2023 20:57:29</publishTime>
+    </File>
+    <File Include="HotelReservas.API.exe">
+      <publishTime>08/08/2023 20:57:30</publishTime>
+    </File>
+    <File Include="HotelReservas.API.pdb">
+      <publishTime>08/08/2023 20:57:29</publishTime>
+    </File>
+    <File Include="HotelReservas.API.runtimeconfig.json">
+      <publishTime>08/07/2023 22:06:53</publishTime>
+    </File>
+    <File Include="HotelReservas.Domain.dll">
+      <publishTime>08/08/2023 20:57:08</publishTime>
+    </File>
+    <File Include="HotelReservas.Domain.pdb">
+      <publishTime>08/08/2023 20:57:08</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.DependencyInjection.Abstractions.dll">
+      <publishTime>10/18/2022 11:20:58</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Options.dll">
+      <publishTime>01/19/2023 19:01:10</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Primitives.dll">
+      <publishTime>10/18/2022 11:19:18</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Abstractions.dll">
+      <publishTime>07/27/2023 21:14:46</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.JsonWebTokens.dll">
+      <publishTime>07/27/2023 20:50:24</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Logging.dll">
+      <publishTime>07/27/2023 20:54:48</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Tokens.dll">
+      <publishTime>07/27/2023 20:59:14</publishTime>
+    </File>
+    <File Include="Microsoft.OpenApi.dll">
+      <publishTime>08/29/2020 15:14:12</publishTime>
+    </File>
+    <File Include="Microsoft.Win32.Registry.dll">
+      <publishTime>10/19/2020 13:37:46</publishTime>
+    </File>
+    <File Include="MongoDB.Bson.dll">
+      <publishTime>06/21/2023 12:43:16</publishTime>
+    </File>
+    <File Include="MongoDB.Driver.Core.dll">
+      <publishTime>06/21/2023 12:43:28</publishTime>
+    </File>
+    <File Include="MongoDB.Driver.dll">
+      <publishTime>06/21/2023 12:43:50</publishTime>
+    </File>
+    <File Include="MongoDB.Libmongocrypt.dll">
+      <publishTime>06/01/2023 12:28:20</publishTime>
+    </File>
+    <File Include="runtimes/linux/native/libmongocrypt.so">
+      <publishTime>05/09/2023 08:05:12</publishTime>
+    </File>
+    <File Include="runtimes/osx/native/libmongocrypt.dylib">
+      <publishTime>05/09/2023 08:05:28</publishTime>
+    </File>
+    <File Include="runtimes/unix/lib/netcoreapp2.1/System.Security.Principal.Windows.dll">
+      <publishTime>10/19/2020 13:46:26</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netcoreapp2.0/System.Security.AccessControl.dll">
+      <publishTime>10/19/2020 13:46:06</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netcoreapp2.1/System.Security.Principal.Windows.dll">
+      <publishTime>10/19/2020 13:46:14</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netstandard2.0/Microsoft.Win32.Registry.dll">
+      <publishTime>10/19/2020 13:38:06</publishTime>
+    </File>
+    <File Include="runtimes/win/native/mongocrypt.dll">
+      <publishTime>05/09/2023 08:04:40</publishTime>
+    </File>
+    <File Include="SharpCompress.dll">
+      <publishTime>11/22/2021 04:21:36</publishTime>
+    </File>
+    <File Include="Snappier.dll">
+      <publishTime>01/23/2021 12:43:32</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.Swagger.dll">
+      <publishTime>01/11/2023 01:48:18</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerGen.dll">
+      <publishTime>01/11/2023 01:48:22</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerUI.dll">
+      <publishTime>01/11/2023 01:49:00</publishTime>
+    </File>
+    <File Include="System.IdentityModel.Tokens.Jwt.dll">
+      <publishTime>07/27/2023 20:49:02</publishTime>
+    </File>
+    <File Include="System.Runtime.CompilerServices.Unsafe.dll">
+      <publishTime>10/22/2021 18:40:56</publishTime>
+    </File>
+    <File Include="System.Security.AccessControl.dll">
+      <publishTime>10/19/2020 13:37:22</publishTime>
+    </File>
+    <File Include="System.Security.Principal.Windows.dll">
+      <publishTime>10/19/2020 13:37:20</publishTime>
+    </File>
+    <File Include="System.Text.Encodings.Web.dll">
+      <publishTime>02/16/2021 14:13:12</publishTime>
+    </File>
+    <File Include="System.Text.Json.dll">
+      <publishTime>04/14/2020 17:49:30</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>08/08/2023 20:57:37</publishTime>
+    </File>
+    <File Include="ZstdSharp.dll">
+      <publishTime>08/02/2022 14:04:30</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
