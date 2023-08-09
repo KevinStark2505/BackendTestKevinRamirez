@@ -1,0 +1,10 @@
+C:\Users\STARK\source\repos\SmartTalent\HotelReservas.Domain\bin\Release\netcoreapp3.1\HotelReservas.Domain.deps.json
+C:\Users\STARK\source\repos\SmartTalent\HotelReservas.Domain\bin\Release\netcoreapp3.1\HotelReservas.Domain.dll
+C:\Users\STARK\source\repos\SmartTalent\HotelReservas.Domain\bin\Release\netcoreapp3.1\HotelReservas.Domain.pdb
+C:\Users\STARK\source\repos\SmartTalent\HotelReservas.Domain\obj\Release\netcoreapp3.1\HotelReservas.Domain.csproj.AssemblyReference.cache
+C:\Users\STARK\source\repos\SmartTalent\HotelReservas.Domain\obj\Release\netcoreapp3.1\HotelReservas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STARK\source\repos\SmartTalent\HotelReservas.Domain\obj\Release\netcoreapp3.1\HotelReservas.Domain.AssemblyInfoInputs.cache
+C:\Users\STARK\source\repos\SmartTalent\HotelReservas.Domain\obj\Release\netcoreapp3.1\HotelReservas.Domain.AssemblyInfo.cs
+C:\Users\STARK\source\repos\SmartTalent\HotelReservas.Domain\obj\Release\netcoreapp3.1\HotelReservas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\STARK\source\repos\SmartTalent\HotelReservas.Domain\obj\Release\netcoreapp3.1\HotelReservas.Domain.dll
+C:\Users\STARK\source\repos\SmartTalent\HotelReservas.Domain\obj\Release\netcoreapp3.1\HotelReservas.Domain.pdb
